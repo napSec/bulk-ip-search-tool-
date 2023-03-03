@@ -5,23 +5,17 @@ IP Address Lookup Script
 
 This Python script performs hostname lookups for one or more IP addresses. It accepts IP addresses as command-line arguments, reads IP addresses from a file, or prompts the user for input.
 Getting Started
+
 Prerequisites
+Python3
 
-This script requires Python 3 to be installed on your system. You can download the latest version of Python from the official website.
-Installing
+# clone this repo
 
-    Download the ipchecker.py file to your computer.
+    
+    git clone https://github.com/napSec/bulk-ip-search-tool-.git 
+    
 
-    Open a terminal or command prompt and navigate to the directory where you downloaded the ipchecker.py file.
-
-    Run the script using the following command:
-
-    javascript
-
-python ipchecker.py [arguments]
-
-
-
+    
 ![image](https://user-images.githubusercontent.com/113065386/222614609-bf06af50-bd15-477e-ba3b-855bdfc52f56.png)
 
 # Look up a single IP address
